@@ -27,4 +27,4 @@ parameters = {
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 response = requests.post(url=exercise_endpoint, json=parameters, headers=headers)
 print(response.text)
-"yo"
+aaa = "yo"
