@@ -1,1 +1,0 @@
-deneme_str = "hey yo my nigger"
